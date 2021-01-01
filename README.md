@@ -24,4 +24,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-------- ²âÊÔGITÌá½» ----------
+------- æµ‹è¯•GITæäº¤ ----------
+~~~~~~~~ ç¬¬2æ¬¡ ~~~~~~~~~~
