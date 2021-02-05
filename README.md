@@ -22,9 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
-------- 测试GIT提交 --------
-第2 ci
-
-3333333333
